@@ -1,0 +1,20 @@
+{"frames": [
+
+{
+	"filename": "back3.png",
+	"frame": {"x":0,"y":0,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Sky33.png",
+	"format": "RGBA8888",
+	"size": {"w":800,"h":600},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c594cfc630818096b256669bb6040952:15e459b195db9989298f7c8fda9cc937:ee61467c142c0087648f8d17b2bdf1d3$"
+}
+}
